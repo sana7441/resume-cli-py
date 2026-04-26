@@ -10,7 +10,7 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-orange?style=flat-square)
 
 </div>
-
+    
 ---
 
 ## 🚀 What It Does
