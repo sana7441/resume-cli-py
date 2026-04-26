@@ -52,7 +52,7 @@ resume-cli-py/
 
 ### Run
 ```bash
-git clone https://github.com/sana74417802/resume-cli-py.git
+git clone https://github.com/ashish7802/resume-cli-py.git
 cd resume-cli-py
 python3 main.py
 ```
@@ -61,7 +61,7 @@ python3 main.py
 
 | Field | Example Input |
 |---|---|
-| Full Name | `sana7441 Yadav` |
+| Full Name | `Ashish Yadav` |
 | Skills | `Python, SQL, Communication` |
 | Education | `B.Tech Computer Science, XYZ University` |
 | Projects | `Resume CLI, Portfolio Website` |
@@ -74,7 +74,7 @@ python3 main.py
          RESUME
 ==========================
 
-Name: sana7441 Yadav
+Name: Ashish Yadav
 
 Skills:
   - Python
@@ -112,11 +112,11 @@ If `reportlab` is not installed, the app continues and saves `resume.txt` automa
 
 ## 👨‍💻 Author
 
-**sana7441 Yadav** — Full Stack Developer & AI Builder
+**Ashish Yadav** — Full Stack Developer & AI Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashyadav.netlify.app-blue?style=flat-square)](https://ashyadav.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sana7441-yadav-ab206124a)
-[![GitHub](https://img.shields.io/badge/GitHub-sana74417802-181717?style=flat-square&logo=github)](https://github.com/sana74417802)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ashish-yadav-ab206124a)
+[![GitHub](https://img.shields.io/badge/GitHub-ashish7802-181717?style=flat-square&logo=github)](https://github.com/ashish7802)
 
 ---
 
